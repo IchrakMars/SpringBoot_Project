@@ -1,0 +1,8 @@
+.boutonRed {
+	border:none;
+	padding:6px 0 6px 0;
+	border-radius:8px;
+	background:#d34836;
+	font:bold 13px Arial;
+	color:#fff;
+}
